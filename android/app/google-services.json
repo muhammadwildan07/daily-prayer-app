@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "673739515848",
+    "project_id": "daily-prayer-5b8ff",
+    "storage_bucket": "daily-prayer-5b8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673739515848:android:fca0dbb5d174598a9602fd",
+        "android_client_info": {
+          "package_name": "com.example.daily_prayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAkfZhWY11D00N6FiByo10fyO84aU6xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
